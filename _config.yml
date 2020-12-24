@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Minnesotans For Human Rights
+name: Minnesotans for Human Rights
 
 # Name of the author
-author: Minnesotans
+author: Minnesotans for Human Rights
 
 # Short bio or description (displayed in the header)
 description: Minnesotans for the ethical investment of state funds 
@@ -21,7 +21,7 @@ avatar: /images/mn4hr.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   #dribbble:
-  email: adamjrahim@gmail.com
+  email: mn4humanrights@gmail.com
   #facebook:
   #flickr:
   #github: adamrahim

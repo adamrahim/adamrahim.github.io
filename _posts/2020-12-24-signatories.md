@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Signatories
-excerpt: These are the organizations who have signed onto the letter.
+excerpt: [Click here to sign the letter!](https://forms.gle/tHgMV44jnT69SfnY6 "Google Form to Support Minnesotans for Human Rights")
 ---
 
 - American Muslims for Palestine - Minnesota

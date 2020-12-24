@@ -5,12 +5,12 @@ title: Letter to the Minnesota State Board of Investment
 
 January 1, 2021
 
-To:
-Board Members:
-Governor Tim Walz,
-State Auditor Julie Blaha,
-Secretary of State Steve Simon, and 
-Attorney General Keith Ellison
+<b>To:</b>
+<b>Board Members:</b>
+- Governor Tim Walz,
+- State Auditor Julie Blaha,
+- Secretary of State Steve Simon, and 
+- Attorney General Keith Ellison
 
 Executive Director and Chief Investment Officer Mansco Perry, III, and Staff
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Signatories
+title: Signatories
 permalink: /signatories/
 ---
 

@@ -2,12 +2,9 @@
 layout: page
 title: Signatories
 permalink: /signatories/
-excerpt: Organizations and individuals who have signed onto the letter.
+excerpt: American...
 ---
 <br/><br/>
-<br/><br/>
-<br/><br/>
-
 - American Muslims for Palestine - Minnesota
 
 

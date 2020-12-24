@@ -49,4 +49,4 @@ With many thanks,
 
  <sup>1</sup> https://www.nbim.no/en/the-fund/responsible-investment/exclusion-of-companies/
 
-#[Click here to sign the letter!](https://forms.gle/tHgMV44jnT69SfnY6 "Google Form to Support MN 4 Human Rights")
+## [Click here to sign the letter!](https://forms.gle/tHgMV44jnT69SfnY6 "Google Form to Support MN 4 Human Rights")

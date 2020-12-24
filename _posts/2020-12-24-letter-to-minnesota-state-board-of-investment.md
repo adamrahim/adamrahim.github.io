@@ -13,7 +13,9 @@ title: Letter to the Minnesota State Board of Investment
 - Secretary of State Steve Simon, and 
 - Attorney General Keith Ellison
 
-Executive Director and Chief Investment Officer Mansco Perry, III, and Staff
+<b>Executive Director and Chief Investment Officer</b> 
+- Mansco Perry, III, and 
+- Staff
 
 
 

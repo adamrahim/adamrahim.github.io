@@ -3,7 +3,7 @@ layout: post
 title: Letter to the Minnesota State Board of Investment
 ---
 
-January 1, 2021
+<b>Date:</b> January 1, 2021
 
 <b>To:</b>
 

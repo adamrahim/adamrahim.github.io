@@ -3,7 +3,7 @@ layout: post
 title: Letter to the Minnesota State Board of Investment
 ---
 
-<b>[Click here to sign the letter!](https://forms.gle/tHgMV44jnT69SfnY6 "Google Form to Support MN 4 Human Rights")</b>
+## [Click here to sign the letter!](https://forms.gle/tHgMV44jnT69SfnY6 "Google Form to Support MN 4 Human Rights")
 
 <b>Date:</b> January 1, 2021
 
@@ -49,4 +49,4 @@ With many thanks,
 
 <sup>1</sup> https://www.nbim.no/en/the-fund/responsible-investment/exclusion-of-companies/
 
-<b>[Click here to sign the letter!](https://forms.gle/tHgMV44jnT69SfnY6 "Google Form to Support MN 4 Human Rights")</b>
+##[Click here to sign the letter!](https://forms.gle/tHgMV44jnT69SfnY6 "Google Form to Support MN 4 Human Rights")

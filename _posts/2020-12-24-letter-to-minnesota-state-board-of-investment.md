@@ -6,6 +6,7 @@ title: Letter to the Minnesota State Board of Investment
 January 1, 2021
 
 <b>To:</b>
+
 <b>Board Members:</b>
 - Governor Tim Walz,
 - State Auditor Julie Blaha,

@@ -7,4 +7,4 @@ excerpt: These are the organizations who have signed onto the letter.
 - American Muslims for Palestine - Minnesota
 
 
-## [Click here to sign the letter!](https://forms.gle/tHgMV44jnT69SfnY6 "Google Form to Support MN 4 Human Rights")
+## [Click here to sign the letter!](https://forms.gle/tHgMV44jnT69SfnY6 "Google Form to Support Minnesotans for Human Rights")

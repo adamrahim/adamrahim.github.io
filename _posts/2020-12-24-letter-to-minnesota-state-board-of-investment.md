@@ -37,7 +37,7 @@ It is concerning that, thus far, there has been no attempt by MN SBI to examine 
 
 We ask that MN SBI take this opportunity to pave the path forward as a state investment fund which puts human rights as an equal weighted consideration in its authorized investments portfolio. This would serve as a starting point in building a robust, risk-based framework, in alignment with MN SBI’s fiduciary duty.
  
-Fortunately, a precedent has already been established, and frameworks exist, for analyzing human rights as a factor in investment decisions. For example, leading state investment funds from countries such as Norway, with assets under management of well over one trillion U.S. dollars, have already adopted human rights as a consideration in their authorized investment portfolio. Indeed, there exist companies in MN SBI’s authorized investments that the Norwegian state pension fund has already excluded<sup>1</sup>.
+Fortunately, a precedent has already been established, and frameworks exist, for analyzing human rights as a factor in investment decisions. For example, leading state investment funds from countries such as Norway, with assets under management of well over one trillion U.S. dollars, have already adopted human rights as a consideration in their authorized investment portfolio. Indeed, there exist companies in MN SBI’s authorized investments that the Norwegian state pension fund has already <sup>excluded1</sup>.
  
 If the investment analysis produces stated risk(s) that point to declining market values for such companies involved in human rights abuses, it would be appropriate for the MN SBI Executive Director to remove these companies from their investment portfolio.
  
@@ -47,6 +47,6 @@ With many thanks,
  
 [The undersigned organizations]
 
-<sup>1</sup> https://www.nbim.no/en/the-fund/responsible-investment/exclusion-of-companies/
+ <sup>1</sup> https://www.nbim.no/en/the-fund/responsible-investment/exclusion-of-companies/
 
 #[Click here to sign the letter!](https://forms.gle/tHgMV44jnT69SfnY6 "Google Form to Support MN 4 Human Rights")

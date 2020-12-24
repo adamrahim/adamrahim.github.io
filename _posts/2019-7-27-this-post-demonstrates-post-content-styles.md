@@ -1,94 +1,45 @@
 ---
 layout: post
-title: Test
+title: Letter to the Minnesota State Board of Investment
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+January 1, 2021
 
-## Some great heading (h2)
+To:
+Board Members:
+Governor Tim Walz,
+State Auditor Julie Blaha,
+Secretary of State Steve Simon, and 
+Attorney General Keith Ellison
 
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu.
-
-Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-## Another great heading (h2)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
-
-### Some great subheading (h3)
-
-Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum.
-
-Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
-
-### Some great subheading (h3)
-
-Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
-
-> This quote will change your life. It will reveal the secrets of the universe, and all the wonders of humanity. Don't misuse it.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.
-
-### Some great subheading (h3)
-
-Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.
-
-```html
-<html>
-  <head>
-  </head>
-  <body>
-    <p>Hello, World!</p>
-  </body>
-</html>
-```
-
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-#### You might want a sub-subheading (h4)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-#### But it's probably overkill (h4)
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-### Oh hai, an unordered list!!
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-- First item, yo
-- Second item, dawg
-- Third item, what what?!
-- Fourth item, fo sheezy my neezy
-
-### Oh hai, an ordered list!!
-
-In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris.
-
-1. First item, yo
-2. Second item, dawg
-3. Third item, what what?!
-4. Fourth item, fo sheezy my neezy
+Executive Director and Chief Investment Officer Mansco Perry, III, and Staff
 
 
 
-## Headings are cool! (h2)
+## Statement
 
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+The Minnesota State Board of Investment (“MN SBI”) engages in Environmental, Social, and Governance (“ESG”) initiatives to address long-term, material risks and opportunities that are expected to lead to positive portfolio outcomes. 
 
-Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
+Many concerned Minnesotans have addressed MN SBI at various quarterly board meetings over the years to highlight the importance of why MN SBI should take into consideration the effect on human rights of MN SBI’s portfolio companies. Activities by companies that engage in direct or indirect contributions to the violation of human rights present unique risks in MN SBI’s investment portfolio and should be thoughtfully analyzed. 
 
-Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc.
+More importantly to the citizens and taxpayers of the State of Minnesota, these activities which negatively affect human rights in this country and around the world, are ones which we should not be rewarding with state pension funds. 
+ 
+We, the undersigned organizations, urge MN SBI to define an appropriate scope and engage with the Board’s investment consultants to review the risks associated with the following:
+1. Publicly traded investments in companies that engage in activities related to high-tech surveillance systems on the U.S. / Mexico border wall (e.g., to create an ability known as “wide-area persistent surveillance”).
+2. Publicly traded investments in companies that provide or use military hardware, weaponry, surveillance systems, software, and munitions in areas recognized by the United Nations as Occupied Territories.
+ 
+It is concerning that, thus far, there has been no attempt by MN SBI to examine ESG risks from the perspective of human rights. This analysis has already been undertaken by many financial institutions, organizations, and state investment funds. 
 
-### Tables
+We ask that MN SBI take this opportunity to pave the path forward as a state investment fund which puts human rights as an equal weighted consideration in its authorized investments portfolio. This would serve as a starting point in building a robust, risk-based framework, in alignment with MN SBI’s fiduciary duty.
+ 
+Fortunately, a precedent has already been established, and frameworks exist, for analyzing human rights as a factor in investment decisions. For example, leading state investment funds from countries such as Norway, with assets under management of well over one trillion U.S. dollars, have already adopted human rights as a consideration in their authorized investment portfolio. Indeed, there exist companies in MN SBI’s authorized investments that the Norwegian state pension fund has already excluded<sup>1</sup>.
+ 
+If the investment analysis produces stated risk(s) that point to declining market values for such companies involved in human rights abuses, it would be appropriate for the MN SBI Executive Director to remove these companies from their investment portfolio.
+ 
+We look forward to hearing back from you in regard to the above and staying up to date on the commissioning of this investment report.
+ 
+With many thanks,
+ 
+[The undersigned organizations]
 
-|Title 1               | Title 2               | Title 3               | Title 4              |
-|--------------------- | --------------------- | --------------------- | ---------------------|
-|lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit|
-|lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit|
-|lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit|
-|lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit|
+<sup>1</sup> https://www.nbim.no/en/the-fund/responsible-investment/exclusion-of-companies/

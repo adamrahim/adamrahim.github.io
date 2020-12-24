@@ -2,6 +2,7 @@
 layout: post
 title: Letter to the Minnesota State Board of Investment
 ---
+[Click here to sign the letter!](https://forms.gle/tHgMV44jnT69SfnY6)
 
 <b>Date:</b> January 1, 2021
 

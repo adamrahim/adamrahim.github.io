@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources
-permalink: /resources/
+permalink: /learn-more/
 excerpt: Links and resources regarding ethical investing. 
 ---
 

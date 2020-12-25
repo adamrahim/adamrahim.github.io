@@ -5,11 +5,10 @@ layout: default
 <div class="posts">
   {% for post in paginator.posts %}
     <article class="post">
-      
+        <h1>{{ post.title }}</h1>
+      </a>
       <div class="entry">
-        {{ post.title }}
         {{ post.content }}
-        }
       </div>
   {% endfor %}
 

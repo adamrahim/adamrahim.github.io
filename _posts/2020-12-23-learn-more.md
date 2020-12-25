@@ -7,4 +7,8 @@ permalink: /learn-more/
 - [Resolution of the MN SBI Concerning ESG Initatives](https://mn.gov/sbi/documents/MSBI%20Resolution%20on%20ESG%20-%20February%2026%202020.pdf "Resolution of the Minnesota State Board of Investment Concerning Environmental, Social, and Governance Initiatives")
 - [United Nations Principles for Responsible Investment](https://www.unpri.org/pri/about-the-pri "UN Principles for Responsible Investment")
 - [Norway's Excluded Companies](https://www.nbim.no/en/the-fund/responsible-investment/exclusion-of-companies/ "Norway's List of Excluded Companies")
-
+- [AXA IM: French Investment Firm Divests from Elbit Systems](https://www.business-humanrights.org/en/latest-news/french-investment-firm-axa-partially-divests-from-israeli-arms-manufacturer-elbit-systems/ "AXA IM Divests from Elbit")
+- [US Investment Fund Boston Common Drops Cisco over Human Rights](https://www.triplepundit.com/story/2011/investor-drops-cisco-over-human-rights/103961 "Boston Common Drops Cisco")
+- [Dutch Pension Funds Divests from PetroChina over Human Rights Abuses in Sudan](https://www.triplepundit.com/story/2008/pggm-will-divest-petrochina/98001 "Dutch Pension Fund Divests over Human Rights Abuses")
+- [HSBC Divests from Elbit Systems over Cluster Bombs](https://www.jpost.com/bds-threat/hsbc-tells-post-we-divested-from-elbit-over-clusters-bombs-not-bds-576175 "HSBC Divests from Elbit")
+- [French Funds Follow Scandinavian Countries in Excluding Investments](https://www.triplepundit.com/story/2012/french-funds-follow-lead-exclusion/105651 "French funds follow suit")

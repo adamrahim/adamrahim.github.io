@@ -18,3 +18,8 @@ permalink: /learn-more/
 - [Financial Times: Majority of ESG Funds Outperform Wider Market Over 10 Years](https://www.ft.com/content/733ee6ff-446e-4f8b-86b2-19ef42da3824 "Majority of ESG funds outperform wider market over 10 years")
 - [Barron's: Human Rights is the Next Frontier in Sustainable Investing](https://www.barrons.com/articles/human-rights-is-the-next-frontier-of-sustainable-investing-51603393387 "Human Rights is the Next Frontier of Sustainable Investing")
 - [Columbia University: A Study of Human Rights Considerations of Pension Funds](https://www.humanrightscolumbia.org/sites/default/files/bhr_pension_funds_2018.pdf "Columbia University: A Study of Human Rights Considerations of Pension Funds")
+
+
+<div>
+    <p><span class="share-box">Share:</span> <a href="http://twitter.com/share?text={{ page.title }}&url={{site.url}}{{page.url}}" target="_blank">Twitter</a>, <a href="https://www.facebook.com/sharer.php?u={{site.url}}{{page.url}}" target="_blank">Facebook</a></p>
+  </div>

@@ -8,6 +8,7 @@ permalink: /learn-more/
 - [United Nations Principles for Responsible Investment](https://www.unpri.org/pri/about-the-pri "UN Principles for Responsible Investment")
 - [Norweigan Government Pension Fund's List of Excluded Companies](https://www.nbim.no/en/the-fund/responsible-investment/exclusion-of-companies/ "Norweigan Government Pension Fund's List of Excluded Companies")
 - [Norweigan Government Pension Fund's Expectations in Regard to Children's Rights](https://www.nbim.no/en/the-fund/responsible-investment/principles/expectations-to-companies/childrens-rights/ "Norweigan Government Pension Fund's Expectations to Companies in Regard to Children's Rights")
+- [Illinois Local Government's Sustainable Investing Act](https://illinoistreasurer.gov/Local_Governments/Sustainable_Investing_Act "Illinois Local Government Sustainable Investing Act")
 - [AXA IM: French Investment Firm Divests from Elbit Systems](https://www.business-humanrights.org/en/latest-news/french-investment-firm-axa-partially-divests-from-israeli-arms-manufacturer-elbit-systems/ "AXA IM Divests from Elbit")
 - [US Investment Fund Boston Common Drops Cisco over Human Rights](https://www.triplepundit.com/story/2011/investor-drops-cisco-over-human-rights/103961 "Boston Common Drops Cisco")
 - [Dutch Pension Funds Divests from PetroChina over Human Rights Abuses in Sudan](https://www.triplepundit.com/story/2008/pggm-will-divest-petrochina/98001 "Dutch Pension Fund Divests over Human Rights Abuses")

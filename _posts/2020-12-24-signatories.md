@@ -8,4 +8,5 @@ permalink: /signatories/
 - SEMNAP - SE MN Alliance of Peacemakers
 - American Muslims for Palestine - Minnesota
 - Middle East Peace Now
+- Women Against Military Madness (WAMM)
 <br/><br/>

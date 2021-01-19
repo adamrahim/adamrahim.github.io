@@ -17,5 +17,6 @@ permalink: /signatories/
 - Northfielders for Justice in Palestine/Israel
 - SEMNAP - SE MN Alliance of Peacemakers
 - Minnesota Deaf Muslim Community
+- Friends of Sabeel North America
 
 <br/><br/>

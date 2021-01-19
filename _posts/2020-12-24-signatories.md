@@ -3,9 +3,12 @@ layout: page
 title: Signatories
 permalink: /signatories/
 ---
+- Muslim American Society of Minnesota
 - Jewish Voice for Peace - Twin Cities
 - American Muslims for Palestine - Minnesota
 - Women Against Military Madness (WAMM)
+- Minnesota Interfaith Power and Light
+- MN350
 - Atawasul Center
 - Al-Aqsa Institute
 - Minnesota Peace Project

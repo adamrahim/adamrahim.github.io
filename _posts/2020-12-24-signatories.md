@@ -14,6 +14,7 @@ permalink: /signatories/
 - Friends of Sabeel North America
 - Al-Aqsa Institute
 - Minnesota Peace Project
+- Brooklyn Park Islamic Center (BPIC)
 - Minnesota Break the Bonds Campaign
 - Middle East Peace Now
 - Northfielders for Justice in Palestine/Israel

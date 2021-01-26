@@ -12,6 +12,7 @@ permalink: /signatories/
 - MN350
 - Atawasul Center
 - Friends of Sabeel North America
+- Twin Ports DSA
 - Al-Aqsa Institute
 - Minnesota Peace Project
 - Brooklyn Park Islamic Center (BPIC)

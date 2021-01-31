@@ -11,7 +11,6 @@ permalink: /signatories/
 - Minnesota Interfaith Power and Light
 - MN350
 - Atawasul Center
-- Veterans for Peace of the Twin Ports (VFP Chapter 80)
 - Friends of Sabeel North America
 - Twin Ports DSA
 - Al-Aqsa Institute

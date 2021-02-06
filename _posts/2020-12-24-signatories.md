@@ -14,6 +14,7 @@ permalink: /signatories/
 - Veterans for Peace of the Twin Ports (VFP Chapter 80)
 - Friends of Sabeel North America
 - Twin Ports DSA
+- Twin Ports Peace Not Walls
 - Al-Aqsa Institute
 - Minnesota Peace Project
 - Brooklyn Park Islamic Center (BPIC)

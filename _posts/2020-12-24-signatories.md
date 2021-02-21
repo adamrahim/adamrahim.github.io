@@ -23,6 +23,7 @@ permalink: /signatories/
 - Northfielders for Justice in Palestine/Israel
 - SEMNAP - SE MN Alliance of Peacemakers
 - Minnesota Deaf Muslim Community
+- Eric Angell | Individual
 
 
 <br/><br/>
